@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<span>
   <a href="https://twitter.com/zhiliang0108" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gbhatia30" height="30" width="40" /></a>
 
 <a href="https://www.linkedin.com/in/alex-zhang-0108/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gbhatia30" height="30" width="40" /></a>
+  </span>
 </p>
