@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning **NLP and Computer Vision**
+- 🌱 I’m currently learning **Image Processing and Computer Vision**
 - 📫 How to reach me **zhiliang.im+github@gmail.com**
 - 💬 Ask me about **Java, Python,Spring Boot, Security, Database, and Other Backend Development Technology**
 
