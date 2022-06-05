@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **NLP and Computer Vision**
 - 📫 How to reach me **zhiliang.im+github@gmail.com**
-- 💬 Ask me about **Java, Python, Spring Boot, Security, Database, and Other Backend Development Technology**
+- 💬 Ask me about **Java, Python, Spring Boot, Security, Database**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
