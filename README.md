@@ -11,10 +11,3 @@
 <a href="https://t.me/alexzhang0108" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Alexcn" height="30" width="40" /></a>
 </p>
 
-
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=Alexcn&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=Alexcn&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-</a>
-
-</p>
